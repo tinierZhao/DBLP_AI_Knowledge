@@ -28,7 +28,6 @@ Knowledge maturity plays an important role in promoting academic innovation and 
 <div align="center"><b>Figure 2. 每年的发文量。(a)代表三种机构类型数量 (b)不同子领域的发文数量</b></div>
 
 
-
 <img width="855" height="320" alt="image" src="https://github.com/user-attachments/assets/0f8d2e7c-0b62-4a2b-bf9a-3ec9b26b05e9" />
 <div align="center"><b>Figure 3. 核心节点的变化趋势</b></div>
 
