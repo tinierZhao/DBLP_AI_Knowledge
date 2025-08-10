@@ -37,7 +37,7 @@ Knowledge maturity plays an important role in promoting academic innovation and 
 
 #### 分析结果
 <div align="center"><b>Table 1. 实体-论文成熟度与机构类型的回归结果</b></div>
-<img width="613" height="364" alt="image" src="https://github.com/user-attachments/assets/ce9e545f-9172-4dcf-9b47-06f9c6af867c" />
+<img width="1030" height="600" alt="image" src="https://github.com/user-attachments/assets/d20688f9-8100-4f04-8e60-bba5b6161e9b" />
 
 
 
