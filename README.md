@@ -5,7 +5,7 @@
 
 Knowledge maturity plays an important role in promoting academic innovation and industrial transformation. Accurately identifying differences in knowledge maturity between academia and industry not only provides a basis for policymakers to optimize innovation resource allocation but also offers insights for planning individual career development paths. However, existing studies often use entire papers as proxies for knowledge and estimate knowledge maturity based on the average publication year of references, overlooking the fine-grained knowledge embedded within papers and their heterogeneous maturation trajectories, thereby limiting the precision of measurement. To address this, this paper proposes a dynamic evaluation framework for knowledge maturity based on a core-periphery structure, targeting the fine-grained knowledge level. 
 
-
+<pre>
 .
 ├─ code
 │    ├─ analysis_entity 
@@ -18,6 +18,7 @@ Knowledge maturity plays an important role in promoting academic innovation and 
 └─ data
        ├─ cso_result_merged.pkl       文章实体dict
        └─ yearly_cso_coreness_0501.pickle  每年的核心边缘节点
+</pre>
 
 
 ![情报学年会 - 中文 drawio](https://github.com/user-attachments/assets/73f8116a-7d91-4265-b409-4fb71d62e0f7)
