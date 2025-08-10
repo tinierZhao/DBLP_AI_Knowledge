@@ -20,16 +20,24 @@ Knowledge maturity plays an important role in promoting academic innovation and 
        └─ yearly_cso_coreness_0501.pickle  每年的核心边缘节点
 </pre>
 
+#### 论文框架
 
 ![情报学年会 - 中文 drawio](https://github.com/user-attachments/assets/73f8116a-7d91-4265-b409-4fb71d62e0f7)
+<div align="center"><b>Figure 1. 框架图</b></div>
 
 
+#### 描述性统计
 <img width="914" height="354" alt="image" src="https://github.com/user-attachments/assets/78ec0b24-b1e6-4dfa-a654-f045a0f10685" />
 <div align="center"><b>Figure 2. 每年的发文量。(a)代表三种机构类型数量 (b)不同子领域的发文数量</b></div>
 
 
 <img width="855" height="320" alt="image" src="https://github.com/user-attachments/assets/0f8d2e7c-0b62-4a2b-bf9a-3ec9b26b05e9" />
 <div align="center"><b>Figure 3. 核心节点的变化趋势</b></div>
+
+
+#### 分析结果
+<div align="center"><b>Table 1. 实体-论文成熟度与机构类型的回归结果</b></div>
+<img width="613" height="364" alt="image" src="https://github.com/user-attachments/assets/ce9e545f-9172-4dcf-9b47-06f9c6af867c" />
 
 
 
